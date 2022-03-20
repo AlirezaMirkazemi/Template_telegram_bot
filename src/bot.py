@@ -15,7 +15,7 @@ markup.add(itembtn1, itembtn2)
 
 class Bot:
     """
-    telegram bot to randomly connect two strangers to talk.
+    template for telegram bot    
     """
     def __init__(self):
         logger.info('Bot is ready to use...')
